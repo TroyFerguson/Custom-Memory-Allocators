@@ -16,8 +16,6 @@ int main( int argc, char *argv[] )
 	DESA->AllocFromEnd( 300 );
 	DESA->PrintUsage();*/
 
-	MemoryHandleTable::Get()->Init( 100 );
-
 	MemoryHandle<int> intHandle;
 
 	return 0;

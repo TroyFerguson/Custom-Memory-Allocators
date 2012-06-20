@@ -112,6 +112,7 @@
     <ClInclude Include="Assertion.h" />
     <ClInclude Include="DoubleEndedStackAllocator.h" />
     <ClInclude Include="MemoryHandle.h" />
+    <ClInclude Include="MemoryHandleTable.h" />
     <ClInclude Include="MemoryPool.h" />
     <ClInclude Include="MemTypes.h" />
     <ClInclude Include="StackAllocator.h" />
